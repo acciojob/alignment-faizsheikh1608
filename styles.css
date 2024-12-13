@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+#table-1,#table-2,#table-3{
+	width : 100%;
+	border-collapse : collapse;
+}
+
+tr,td{
+	border : 1px solid black;
+}
+
+div{
+	margin-bottom : 10px;
+}
+
+.t12{
+	text-align : center;
+}
+
+.t13{
+	text-align : right;
+}
+
+.green{
+	  background-color: green;
+      height: 20px;
+}
+.blue{
+	  background-color: blue;
+      height: 20px;
+}
+
+  .content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    
+    }
